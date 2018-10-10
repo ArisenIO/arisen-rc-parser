@@ -1,19 +1,19 @@
 {
-  "name": "eos-rc-parser",
-  "version": "1.0.4",
-  "description": "EOS Ricardian contract parser",
+  "name": "arisen-rc-parser",
+  "version": "1.0.0",
+  "description": "Arisen Ricardian contract parser",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha",
     "build": "babel ./src/parser.js -o ./lib/index.js --presets es2015"
   },
-  "author": "nsjames",
+  "author": "Arisen Community",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EOSEssentials/EOS-RC-Parser"
+    "url": "git+https://github.com/arisenio/arisen-rc-parser"
   },
   "keywords": [
-    "EOS",
+    "Arisen",
     "Blockchain",
     "Ridcardian Contracts"
   ],

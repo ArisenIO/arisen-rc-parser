@@ -1,5 +1,6 @@
 The MIT License
 
+Copyright (c) 2018 Arisen Community https://github.com/arisenio
 Copyright (c) 2018 nsjames EOS Essentials https://github.com/EOSEssentials
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
